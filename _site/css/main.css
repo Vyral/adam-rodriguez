@@ -1466,6 +1466,8 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 60rem;
+  margin-bottom: 4rem;
+  margin-left: -170px;
   -webkit-filter: drop-shadow(0px 2px 7px black);
   filter: drop-shadow(0px 2px 7px black); }
 
@@ -1479,12 +1481,23 @@ label.tree-toggle {
   padding-top: 1rem;
   margin-bottom: 0; }
 
+.kw {
+  float: left;
+  width: 150px;
+  margin-left: 20px;
+  padding-top: 18rem;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
+
 @media (max-width: 1100px) {
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 40rem; } }
+    max-width: 40rem; }
+
+  .kw {
+    padding-top: 10rem; } }
 @media (max-width: 760px) {
   .site-logo {
     max-width: 40rem;
@@ -1493,9 +1506,13 @@ label.tree-toggle {
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
+  .kw {
+    display: none; }
+
   .site-logo {
     max-width: 30rem;
-    margin-top: 2rem; }
+    margin-top: 2rem;
+    margin-left: 0; }
 
   .site-title {
     font-size: 3.5rem; }

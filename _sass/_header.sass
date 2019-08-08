@@ -12,6 +12,8 @@
 .site-logo
 	width: 90%
 	max-width: $logo-width
+	margin-bottom: 4rem
+	margin-left: -170px
 	@include filter(drop-shadow($header-shadow))
 
 .site-title
@@ -24,6 +26,13 @@
 	padding-top: 1rem
 	margin-bottom: 0
 
+.kw
+	float: left
+	width: 150px
+	margin-left: 20px
+	padding-top: 18rem
+	@include filter(drop-shadow($header-shadow))
+
 @media (max-width: 1100px)
 	.site-title
 		font-size: 5rem
@@ -31,6 +40,8 @@
 @media (max-width: 1000px)
 	.site-logo
 		max-width: 40rem
+	.kw
+		padding-top: 10rem
 
 @media (max-width: 760px)
 	#hero
@@ -44,9 +55,12 @@
 @media (max-width: 600px)
 	#hero
 		// height: 31rem
+	.kw
+		display: none
 	.site-logo
 		max-width: 30rem
 		margin-top: 2rem
+		margin-left: 0
 	.site-title
 		font-size: 3.5rem
 	.cta
