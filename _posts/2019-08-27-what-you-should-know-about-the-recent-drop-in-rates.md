@@ -17,7 +17,9 @@ youtube_code: nTtrLwSjf88
 
 {% include youtube.html %}
 
-<center>Low interest rates are really driving our market right now. Here’s how.</center>
+<center><em>Low interest rates are really driving our market right now. Here&rsquo;s how.</em></center>
+
+&nbsp;
 
 We have some exciting news to share with you today. Recently, the interest rates took a second dip this year. Last year, they were around 5%, but have dropped to under 4% since.
 
