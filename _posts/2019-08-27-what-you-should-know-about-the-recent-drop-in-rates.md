@@ -21,7 +21,7 @@ youtube_code: nTtrLwSjf88
 
 &nbsp;
 
-We have some exciting news to share with you today. Recently, the interest rates took a second dip this year. Last year, they were around 5%, but have dropped to under 4% since.
+We have some exciting news to share with you today. Recently, the interest rates took a second dip. Last year, they were around 5%, but have dropped to under 4% since.
 
 What does this mean for you as a buyer? More power\! **If interest rates drop 1%, it increases your affordability by 10%**. If you were approved for $300,000 last year, you can afford up to $330,000 now while maintaining the same monthly payment.
 
