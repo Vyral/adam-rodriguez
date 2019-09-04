@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Low interest rates are really driving our market right now. Here’s how.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/What+You+Should+Know+About+the+Recent+Drop+in+Rates.mp4
 pullquote: These low rates should remain steady until the end of the year.
 enclosure_type: video/mp4
 enclosure_time:
