@@ -19,7 +19,9 @@ youtube_code: ZE1Jq3Uoeyc
 
 {% include youtube.html %}
 
-<center>If you’re going to live in your home while you sell it, there are a few things you can do to make the process easier. Here are our top tips.</center>
+<center><em>If you&rsquo;re going to live in your home while you sell it, there are a few things you can do to make the process easier. Here are our top tips.</em></center>
+
+&nbsp;
 
 Your home has always been your sanctuary. Your own personal space. However, when that “For Sale” sign goes out on the front lawn, you need to be prepared to bare all. **Prepare for your new home while living in your listed home with these helpful tips:**
 
