@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   If you’re going to live in your home while you sell it, there are a few things
-  you can do to make the process easier. Here are our top tips.
+  you can do to make the process easier.
 enclosure:
 pullquote: Make the prep process a game for your kids.
 enclosure_type: video/mp4
