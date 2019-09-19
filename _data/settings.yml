@@ -19,7 +19,7 @@ client:
   name: The Rodriguez Team
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Our goal is to create a business surrounded by people who truly care about
     the customers and the communities they serve. Our professional approach to
     real estate allows us to be efficient with your time and wise with your
@@ -28,13 +28,13 @@ client:
     selling.
 
 
-    We want to be your Real Estate team for life! We hope you feel so great
+    We want to be your Real Estate team for life\! We hope you feel so great
     about our service that you are excited to tell your friends and family so we
     can continue to grow and build lasting relationships.
 
 
     We look forward to serving you.
-  brand: The Rodriguez Team
+  brand:
   brokerage: Keller Williams Elite Partners III Realty
   market: Central Florida
   address: '1200 Oakley Seaver Dr. Suite 109 Clermont, FL 34711'
@@ -86,7 +86,8 @@ socials:
   zillow_url: 'https://www.zillow.com/profile/AGRodriguezPA/'
   trulia_url:
   yelp_url:
-  podcast_url: https://podcasts.apple.com/us/podcast/central-florida-real-estate-podcast-rodriguez-team/id1479478377
+  podcast_url: >-
+    https://podcasts.apple.com/us/podcast/central-florida-real-estate-podcast-rodriguez-team/id1479478377
 podcast:
   title: Central Florida Real Estate Podcast with The Rodriguez Team
   categories:
