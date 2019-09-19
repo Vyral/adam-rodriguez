@@ -37,7 +37,7 @@ client:
   brand:
   brokerage: Keller Williams Elite Partners III Realty
   market: Central Florida
-  address: '1200 Oakley Seaver Dr. Suite 109 Clermont, FL 34711'
+  address: '1200 Oakley Seaver Dr. Suite 109<br/>Clermont, FL 34711'
   phone: (407) 519-0627
   phone_type:
   phone2:
