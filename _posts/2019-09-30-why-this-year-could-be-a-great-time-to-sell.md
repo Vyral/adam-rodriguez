@@ -19,7 +19,9 @@ youtube_code: LeNK-PPitgg
 
 {% include youtube.html %}
 
-<center>Could 2019 be the ideal year for you to sell your home?</center>
+<center><em>Could 2019 be the ideal year for you to sell your home?</em></center>
+
+&nbsp;
 
 Since the market has been on a tremendous upswing since 2012, we’re often asked if this means that there will soon be another crash.
 
