@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-27---adam-rodriguez---yt.jpg
-youtube_code: LeNK-PPitgg
+youtube_code: N7ylFaw3A18
 ---
 
 {% include youtube.html %}
