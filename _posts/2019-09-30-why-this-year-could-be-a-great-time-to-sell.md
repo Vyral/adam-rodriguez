@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Could 2019 be the ideal year for you to sell your home?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/Why+This+Year+Could+Be+a+Great+Time+to+Sell.mp4
 pullquote: >-
   These factors all indicate that sellers have lots of great opportunities to
   pursue in our market.
