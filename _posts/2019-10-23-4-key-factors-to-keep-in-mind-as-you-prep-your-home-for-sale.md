@@ -21,7 +21,9 @@ youtube_code: CaCUlu2gniM
 
 {% include youtube.html %}
 
-<center>There are four key factors to keep in mind as you prepare your home for the market.</center>
+<center><em>There are four key factors to keep in mind as you prepare your home for the market.</em></center>
+
+&nbsp;
 
 To best prepare your home for the market, there are four key factors to keep in mind:
 
