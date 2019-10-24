@@ -45,6 +45,6 @@ Now, if you do find yourself in a situation with limited resources, the good new
 
 **3\. Boost your home’s curb appeal**. First impressions are everything in real estate, so do everything you can to make the first glimpse buyers will have of your home look as good as possible. Cleaning up your front yard and updating your landscaping will take you far in this regard.
 
-**4\. Eliminate odors**. If your home smells like pets or stale cigarettes, it may turn buyers off. These odors are relatively easy to get rid off, but you’ll have to do some research as to how.
+**4\. Eliminate odors**. If your home smells like pets or stale cigarettes, it may turn buyers off. These odors are relatively easy to get rid of, but you’ll have to do some research as to how.
 
 If you have any questions about this or any other real estate topic, don’t hesitate to reach out to us. We’d love to help you.
