@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   There are four key factors to keep in mind as you prepare your home for the
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/4+Key+Factors+to+Keep+in+Mind+as+You+Prep+Your+Home+for+Sale.mp4
 pullquote: >-
   The more personal items you can remove from your home’s living areas, the
   better off you’ll be.
