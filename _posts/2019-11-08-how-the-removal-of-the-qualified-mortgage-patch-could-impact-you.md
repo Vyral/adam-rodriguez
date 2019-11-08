@@ -18,7 +18,7 @@ youtube_code: so_CaDKz1dY
 
 {% include youtube.html %}
 
-<center><em>The mortgage patch may expire soon and this could impact many people’s ability to qualify for a home loan. Here’s what you should know.</em></center>
+<center><em>The mortgage patch may expire soon and this could impact many people&rsquo;s ability to qualify for a home loan. Here&rsquo;s what you should know.</em></center>
 
 <br>Mortgage rates are currently low but mortgages themselves might soon be hard to come by. After the financial crisis, the Consumer Financial Protection Bureau created something called a "qualified mortgage patch."
 
