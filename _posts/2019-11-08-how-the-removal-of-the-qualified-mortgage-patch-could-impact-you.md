@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The mortgage patch may expire soon and this could impact many people’s ability
   to qualify for a home loan. Here’s what you should know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/How+the+Removal+of+the+Qualified+Mortgage+Patch+Could+Impact+You.mp4
 pullquote: It's not 100% certain the qualified mortgage patch will be allowed to expire.
 enclosure_type: video/mp4
 enclosure_time:
