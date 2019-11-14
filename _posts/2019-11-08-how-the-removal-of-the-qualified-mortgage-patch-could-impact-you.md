@@ -4,6 +4,7 @@ title: How the Removal of the Qualified Mortgage Patch Could Impact You
 date: 2019-11-08 00:00:00
 tags:
   - Real Estate
+  - Market Update
 excerpt: >-
   The mortgage patch may expire soon and this could impact many people’s ability
   to qualify for a home loan. Here’s what you should know.
