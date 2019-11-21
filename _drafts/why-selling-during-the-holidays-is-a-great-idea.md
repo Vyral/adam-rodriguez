@@ -21,6 +21,8 @@ youtube_code: WctS1_FHOo4
 
 {% include youtube.html %}
 
+<p style="text-align:center;"><em>If you list now, you’ll have less competition and deal with more serious buyers.</em></p>
+
 “Should I sell my home during the holidays?”
 
 That was the question one of our subscribers, Frank B., recently asked us. We told him it really depended on whether he was hosting this year—if you have messy guests, you might want to wait.
