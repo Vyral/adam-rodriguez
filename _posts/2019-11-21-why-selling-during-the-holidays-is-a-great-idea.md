@@ -21,7 +21,7 @@ youtube_code: WctS1_FHOo4
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>If you list now, you’ll have less competition and deal with more serious buyers.</em></p>
+*If you list now, you’ll have less competition and deal with more serious buyers.*
 
 “Should I sell my home during the holidays?”
 
