@@ -21,7 +21,7 @@ youtube_code: WctS1_FHOo4
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>If you list now, you’ll have less competition and deal with more serious buyers.</em></p>
+*If you list now, you’ll have less competition and deal with more serious buyers.*
 
 “Should I sell my home during the holidays?”
 
@@ -33,7 +33,7 @@ In all seriousness, though, there are two main reasons why selling during the ho
 
 {% include pullquote.html %}
 
-**Second, buyers are more serious during the holidays**. Most buyers typically wait out the holiday season, but this year we’re seen more activity due to the low interest rates. This has also resulted in more multiple-offer situations. Also, many buyers want to buy now so they can file their homestead exemption in time and save in property taxes.
+**Second, buyers are more serious during the holidays**. Most buyers typically wait out the holiday season, but this year we’re seeing more activity due to the low interest rates. This has also resulted in more multiple-offer situations. Also, many buyers want to buy now so they can file their homestead exemption in time and save in property taxes.
 
 So if you want to get the home selling process started, your first step should be to call our team. Next, don’t forget to subscribe to our YouTube channel. Remember, if you have any questions you’d like us to address in a future video, leave them in the comment section below. If we select your question, you’ll receive a gift card in the mail.
 
