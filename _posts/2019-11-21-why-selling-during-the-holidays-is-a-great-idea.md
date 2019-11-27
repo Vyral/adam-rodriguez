@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you list now, you’ll have less competition and deal with more serious
   buyers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/Why+Selling+During+the+Holidays+Is+a+Great+Idea.mp4
 pullquote: >-
   There are two main reasons why selling during the holidays is a great
   opportunity.
