@@ -19,7 +19,9 @@ youtube_code: hf7sJZXMw18
 
 {% include youtube.html %}
 
-In our market, multiple-offer situations are rampant. If you’ve just listed your home and you’ve received more than one offer, how do you know which one to choose?
+<center><em>Having multiple offers is a great problem for homeowners to have. Here’s how to solve it.</em></center>
+
+<br>In our market, multiple-offer situations are rampant. If you’ve just listed your home and you’ve received more than one offer, how do you know which one to choose?
 
 **The first thing we can do is go back to all the buyers and their agents to confirm that they’ve submitted their highest and best offer**. If they haven’t, we allow them to make changes to those offers, which in turn will enable you to choose from the highest and best ones.
 
