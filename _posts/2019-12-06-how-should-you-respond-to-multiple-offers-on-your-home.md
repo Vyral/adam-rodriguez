@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Having multiple offers is a great problem for homeowners to have. Here’s how
   to solve it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/How+Should+You+Respond+to+Multiple+Offers+on+Your+Home_.mp4
 pullquote: Cash isn’t always king.
 enclosure_type: video/mp4
 enclosure_time:
