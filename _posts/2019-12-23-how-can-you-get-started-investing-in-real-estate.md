@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   If you have plans to become a real estate investor, we’re here to take you
-  through the process step by step so you know what to expect.
+  through the process step by step.
 enclosure:
 pullquote: 'Stay patient, look for a gem, and don’t sway from your goals.'
 enclosure_type: video/mp4
