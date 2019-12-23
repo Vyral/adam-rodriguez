@@ -18,7 +18,9 @@ youtube_code: XelZFU3z6Bg
 
 {% include youtube.html %}
 
-If you’re curious about investing in real estate and want to become a real estate investor, **the first step you need to take is to begin thinking like an investor**, which starts with your personal finances. You have to hold every dollar accountable now, because that’s exactly what you have to do as an investor. If you develop that discipline now, it makes those habits so much easier.
+<center><em>If you have plans to become a real estate investor, we’re here to take you through the process step by step so you know what to expect.</em></center>
+
+<br>If you’re curious about investing in real estate and want to become a real estate investor, **the first step you need to take is to begin thinking like an investor**, which starts with your personal finances. You have to hold every dollar accountable now, because that’s exactly what you have to do as an investor. If you develop that discipline now, it makes those habits so much easier.
 
 Next, have a written budget of all the money that’s coming in and all of the money that’s going out. Of the money you have left, you always want to make sure you have two to three months’ salary in your savings first before you even start thinking about investing, in our opinion.
 
