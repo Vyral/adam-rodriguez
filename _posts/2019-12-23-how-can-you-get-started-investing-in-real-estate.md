@@ -28,7 +28,7 @@ Next, have a written budget of all the money that’s coming in and all of the m
 
 Once your finances are in order, it’s time to decide on an investment strategy. **There are so many different ways to go about it depending on what your goals are**. You can go the fix-and-flip route, where you buy low, renovate, and sell to make a quick profit. You can also look at the long-term strategy of buying and holding a property, where you rent out the property, have the tenants cover the monthly mortgage payment, and ride the market for appreciation.
 
-**Now it’s time to decide what kind of property you want to invest in**. It could be a single-family home, duplex, or four-plex. Any property with more than four units does turn into a commercial investment property, which calls for a different kind of financing.
+**Now it’s time to decide what kind of property in which you want to invest in**. It could be a single-family home, duplex, or four-plex. Any property with more than four units does turn into a commercial investment property, which calls for a different kind of financing.
 
 {% include pullquote.html %}
 
