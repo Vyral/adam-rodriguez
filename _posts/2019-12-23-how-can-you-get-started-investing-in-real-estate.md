@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you have plans to become a real estate investor, we’re here to take you
   through the process step by step.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/How+Can+You+Get+Started+Investing+in+Real+Estate_.mp4
 pullquote: 'Stay patient, look for a gem, and don’t sway from your goals.'
 enclosure_type: video/mp4
 enclosure_time:
