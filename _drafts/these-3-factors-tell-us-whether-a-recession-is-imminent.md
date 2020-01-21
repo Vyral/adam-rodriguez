@@ -17,7 +17,9 @@ youtube_code: e9eO5A-LDYg
 
 {% include youtube.html %}
 
-As we begin 2020, are we going into a recession? There are three indicators we look at to answer that question: **the GDP, unemployment and wages, and interest rates**.
+<center><em>Is a recession coming? These three factors will tell us what to expect.</em></center>
+
+<br>As we begin 2020, are we going into a recession? There are three indicators we look at to answer that question: **the GDP, unemployment and wages, and interest rates**.
 
 GDP stands for “gross domestic product,” and it represents the total monetary value of all goods and services produced and sold on the market in a certain country, typically in a one-year time frame. GDP is the most commonly used measure of economic activity, and we’re in year 11 of the longest expansion in American history. President Trump and many analysts are optimistic that our country will continue to be healthy, and we can continue to hit these record-breaking lengths if our politicians reach a trade agreement.
 
