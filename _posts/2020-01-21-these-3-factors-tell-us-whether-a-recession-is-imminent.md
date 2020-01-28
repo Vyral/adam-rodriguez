@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-20---adam-rodriguez---yt.jpg
-youtube_code: e9eO5A-LDYg
+youtube_code: 0-RDHNB2CXE
 ---
 
 {% include youtube.html %}
