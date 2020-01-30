@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Is a recession coming? These three factors will tell us what to expect.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/These+3+Factors+Tell+Us+Whether+a+Recession+Is+Imminent.mp4
 pullquote: Mortgage loans aren’t handed out like candy anymore.
 enclosure_type: video/mp4
 enclosure_time:
