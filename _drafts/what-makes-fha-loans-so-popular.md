@@ -19,7 +19,9 @@ youtube_code: gDQ8yifW5F4
 
 {% include youtube.html %}
 
-If you’re thinking of buying your first home, you may have heard of FHA loans. If not, you certainly will once you start working with a lender. These types of loans are one of the most popular, especially among first-time homebuyers.
+<center><em>If you’re a first-time homebuyer, it’s time you learned about FHA loans.</em></center>
+
+<br>If you’re thinking of buying your first home, you may have heard of FHA loans. If not, you certainly will once you start working with a lender. These types of loans are one of the most popular, especially among first-time homebuyers.
 
 What makes them so ideal? Should you consider using one for your home purchase?
 
