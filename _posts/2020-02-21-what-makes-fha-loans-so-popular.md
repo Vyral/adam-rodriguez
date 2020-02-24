@@ -31,7 +31,7 @@ The popularity of FHA loans is due to two factors: low down payment and credit s
 
 That being said, the loan is available to any buyer who meets FHA criteria. Even if you’ve owned homes in the past, you can use the FHA loan to buy another property as long as it’s your primary residence.
 
-Specifically, you can qualify for this loan with a credit score as low as 500—far below the minimum score of 620 most lenders require for conventional loans. Also, you only need to pay as little as 3.5% down, which is among the lowest in the industry. Keep in mind, the 3.5% mark is generally reserved for those with a credit score of 580 or better. To purchase with a score of 500, you'd need to pay 10% down.
+Specifically, **you can qualify for this loan with a credit score as low as 500**—far below the minimum score of 620 most lenders require for conventional loans. Also, you only need to pay as little as 3.5% down, which is among the lowest in the industry. Keep in mind, the 3.5% mark is generally reserved for those with a credit score of 580 or better. To purchase with a score of 500, you'd need to pay 10% down.
 
 FHA loans also allow some flexibility in terms of the sources of your down payment funds and closing costs. Down payment funds can come from a gift or grant, and sellers are allowed to pay up to 6% of your closing costs. For most conventional loans, sellers can only pay up to 3%.
 
