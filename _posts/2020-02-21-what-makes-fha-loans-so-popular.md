@@ -21,7 +21,7 @@ youtube_code: gDQ8yifW5F4
 
 <center><em>If you&rsquo;re a first-time homebuyer, it&rsquo;s time you learned about FHA loans.</em></center>
 
-<br>If you’re thinking of buying your first home, you may have heard of FHA loans. If not, you certainly will once you start working with a lender. These types of loans are one of the most popular, especially among first-time homebuyers.
+<br>If you’re thinking of buying your first home, you may have heard of FHA loans. If not, you certainly will once you start working with a lender. These types of loans are some of the most popular, especially among first-time homebuyers.
 
 What makes them so ideal? Should you consider using one for your home purchase?
 
@@ -46,7 +46,7 @@ There are limits to how much home you can purchase with this loan, and it varies
 In addition to your credit, down payment, and maximum loan amount requirements, **qualifying for an FHA loan means meeting these criteria:**
 
 * Borrowers must be a legal resident of the U.S., live in the country, and show two years of steady, verifiable employment
-* The property must be your primary residence—no vacation cabins or rentals. Although you can buy a multi-unit property as long as you live in one of the units
+* The property must be your primary residence—no vacation cabins or rentals. However, you can buy a multi-unit property as long as you live in one of the units
 * The property must be appraised by an FHA-approved appraiser
 * Your front-end debt ratio should not exceed 31% of your gross monthly income
 * Your back-end debt ratio should not exceed 43% of your gross monthly income
