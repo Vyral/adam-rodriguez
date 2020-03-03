@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: 'If you’re a first-time homebuyer, it’s time you learned about FHA loans.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/What+Makes+FHA+Loans+So+Popular_.mp4
 pullquote: >-
   The popularity of FHA loans is due to two factors: low down payment and credit
   score requirements.
