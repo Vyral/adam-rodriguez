@@ -17,7 +17,7 @@ youtube_code: U8zbeVGQdtE
 
 {% include youtube.html %}
 
-<center><em>Here’s how the coronavirus is affecting our housing market and economy.</em></center>
+<center><em>Here&rsquo;s how the coronavirus is affecting our housing market and economy.</em></center>
 
 <br>With the coronavirus continuing to dominate our daily lives, it can be hard to keep up with all the latest news, but today we’ll update you on how it’s affecting our economy and housing market. The good news is, according to <u><a target="_blank" href="https://www.zillow.com/research/pandemic-literature-review-26643/">a recent Zillow study</a></u>, **the behavior of the housing market during previous pandemics paints a reassuring picture for sellers**. Home sales dropped, but prices stayed roughly the same. Essentially, the market shifts into “pause” mode during these situations.
 
