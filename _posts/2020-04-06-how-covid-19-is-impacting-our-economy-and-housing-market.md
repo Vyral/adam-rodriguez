@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-3---adam-rodriguez---yt.jpg
+youtube_alternate_image: /uploads/4-7---adam-rodriguez---yt.jpg
 youtube_code: U8zbeVGQdtE
 ---
 
