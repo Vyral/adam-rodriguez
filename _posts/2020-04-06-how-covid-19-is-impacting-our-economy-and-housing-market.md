@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s how the coronavirus is affecting our housing market and economy.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/How+COVID-19+is+Impacting+Our+Economy+and+Housing+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
