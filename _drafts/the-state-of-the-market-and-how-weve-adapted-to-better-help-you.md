@@ -19,7 +19,9 @@ youtube_code: ngz2hVNMhQo
 
 {% include youtube.html %}
 
-In today’s update, our goal is to keep you informed and up to date on how the coronavirus has impacted the market. We hope you and your loved ones continue to stay safe and healthy\!
+<center><em>How has the market has been affected by the pandemic? Here’s a peek at what we’ve seen, and how we’ve risen to the challenge.</em></center>
+
+<br>In today’s update, our goal is to keep you informed and up to date on how the coronavirus has impacted the market. We hope you and your loved ones continue to stay safe and healthy\!
 
 Last week, **the director of the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA) <u><a target="_blank" href="https://youtu.be/ngz2hVNMhQo">authorized real estate services as part of the nation&rsquo;s critical infrastructure</a></u>**, including residential and commercial real estate services, as well as title companies, notary services, leasing offices, and mortgage lenders.
 
