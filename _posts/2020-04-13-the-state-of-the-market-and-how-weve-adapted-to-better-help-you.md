@@ -19,7 +19,7 @@ youtube_code: ngz2hVNMhQo
 
 {% include youtube.html %}
 
-<center><em>How has the market has been affected by the pandemic? Here’s a peek at what we’ve seen, and how we’ve risen to the challenge.</em></center>
+<center><em>How has the market has been affected by the pandemic? Here&rsquo;s a peek at what we&rsquo;ve seen, and how we&rsquo;ve risen to the challenge.</em></center>
 
 <br>In today’s update, our goal is to keep you informed and up to date on how the coronavirus has impacted the market. We hope you and your loved ones continue to stay safe and healthy\!
 
