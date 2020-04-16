@@ -23,7 +23,7 @@ youtube_code: ngz2hVNMhQo
 
 <br>In today’s update, our goal is to keep you informed on how the coronavirus has impacted the market. We hope you and your loved ones continue to stay safe and healthy\!
 
-Last Week, **the director of the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA) <u><a target="_blank" href="https://www.cisa.gov/sites/default/files/publications/CISA_Guidance_on_the_Essential_Critical_Infrastructure_Workforce_Version_2.0_Updated.pdf">authorized real estate services as part of the nation&rsquo;s critical infrastructure</a></u>**, including residential and commercial real estate services, as well as title companies, notary services, leasing offices, and mortgage lenders.
+Last week, **the director of the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA) <u><a target="_blank" href="https://www.cisa.gov/sites/default/files/publications/CISA_Guidance_on_the_Essential_Critical_Infrastructure_Workforce_Version_2.0_Updated.pdf">authorized real estate services as part of the nation&rsquo;s critical infrastructure</a></u>**, including residential and commercial real estate services, as well as title companies, notary services, leasing offices, and mortgage lenders.
 
 On March 30, the World Health Organization released guidelines to help countries maintain essential health services during the coronavirus pandemic. You can <u><a target="_blank" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/maintaining-essential-health-services-and-systems">read the protocols here</a></u>.
 
