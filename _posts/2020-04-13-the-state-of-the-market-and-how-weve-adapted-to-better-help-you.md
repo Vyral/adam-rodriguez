@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   How has the market has been affected by the pandemic? Here’s a peek at what
   we’ve seen, and how we’ve risen to the challenge.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/The+State+of+the+Market+and+How+We've+Adapted+to+Better+Help+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
