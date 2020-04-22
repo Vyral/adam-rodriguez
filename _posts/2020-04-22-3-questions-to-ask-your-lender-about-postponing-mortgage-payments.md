@@ -18,6 +18,6 @@ youtube_code: nL4QlsAyZjQ
 
 {% include youtube.html %}
 
-<center><em>If you’re suffering from financial strain due to the pandemic, you can apply to postpone your mortgage payments.</em></center>
+<center><em>If you&rsquo;re suffering from financial strain due to the pandemic, you can apply to postpone your mortgage payments.</em></center>
 
 <br>Given the current pandemic, mortgage lenders are currently providing mortgage relief to struggling homeowners. The coronavirus has led to a deluge of layoffs all over the U.S. If you’ve been struck financially by the health crisis, **you may want to consider postponing your mortgage payments**. You can apply for up to a 12-month deferment in certain cases. So today we’re discussing the three essential questions you should be asking your lender about mortgage forbearance.
