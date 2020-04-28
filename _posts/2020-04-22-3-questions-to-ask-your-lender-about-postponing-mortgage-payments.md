@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re suffering from financial strain due to the pandemic, you can apply
   to postpone your mortgage payments.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/3+Questions+to+Ask+Your+Lender+About+Postponing+Mortgage+Payments.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
