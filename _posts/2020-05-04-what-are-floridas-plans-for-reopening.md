@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Our state is slowly reopening and things will start ramping up this week.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/What+Are+Floridas+Plans+for+Reopening_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
