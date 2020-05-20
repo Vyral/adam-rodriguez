@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here are the latest COVID-19 developments you should know about.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/Your+COVID-19+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
