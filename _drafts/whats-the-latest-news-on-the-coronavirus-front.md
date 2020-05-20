@@ -19,6 +19,8 @@ youtube_code: RmkrX718XXE
 
 {% include youtube.html %}
 
-For your latest weekly coronavirus update, we have some more important news to share from the economy and our real estate market.
+<center><em>More businesses have been allowed to reopen, and our market is moving along steadily.</em></center>
+
+<br>For your latest weekly coronavirus update, we have some more important news to share from the economy and our real estate market.
 
 Monday, May 18, ushered in a new wave of reopenings across Florida, including gyms and fitness centers. Theme parks have also been given the green light by Governor DeSantis to submit their plans for reopening. In real estate news, there were 139 new homes listed last week and 195 that went under contract, which means **the market is still moving steadily**.
