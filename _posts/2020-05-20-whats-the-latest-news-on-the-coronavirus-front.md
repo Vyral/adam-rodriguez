@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   More businesses have been allowed to reopen, and our market is moving along
   steadily.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/Whats+the+Latest+News+on+the+Coronavirus+Front_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
