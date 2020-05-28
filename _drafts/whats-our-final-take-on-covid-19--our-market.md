@@ -17,6 +17,8 @@ youtube_code: A5wlbulKD1w
 
 {% include youtube.html %}
 
-For your final COVID-19 market update, we have some great news to share from the statewide economy *and* real estate market.
+<center><em>Our final COVID-19 market update comes with plenty of great news.</em></center>
+
+<br>For your final COVID-19 market update, we have some great news to share from the statewide economy *and* real estate market.
 
 First off, the <u><a target="_blank" href="https://floridajobs.org/cares-act">Pandemic Emergency Unemployment Compensation program</a></u> has granted unemployed Floridians at least 13 more weeks of benefits. Also, all Universal Studios parks will reopen on June 5\! With much of Florida reopening and so many accompanying jobs coming back, **our Lake County market is sure to see an upswing in real estate activity**.
