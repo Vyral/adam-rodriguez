@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-28-rodriguez-youtube.jpg
-youtube_code: A5wlbulKD1w
+youtube_code: _34aCrE1uSw
 ---
 
 {% include youtube.html %}
