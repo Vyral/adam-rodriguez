@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Our final COVID-19 market update comes with plenty of great news.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/Whats+Our+Final+Take+on+COVID-19+%26+Our+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
