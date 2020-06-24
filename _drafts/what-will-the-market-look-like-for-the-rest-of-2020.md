@@ -19,7 +19,9 @@ youtube_code: 57T4E2oCntM
 
 {% include youtube.html %}
 
-What will our real estate market look like for the rest of 2020? We’ve received a ton of questions about our market and where it’s heading. Many people have been drawing comparisons between our current market and the housing crisis we faced from 2008 to 2010 and fear we may be heading in a similar direction.
+<center><em>Here are our predictions for how our market will be for the rest of 2020.</em></center>
+
+<br>What will our real estate market look like for the rest of 2020? We’ve received a ton of questions about our market and where it’s heading. Many people have been drawing comparisons between our current market and the housing crisis we faced from 2008 to 2010 and fear we may be heading in a similar direction.
 
 However, **in those years there was a ton of inventory, and mortgages were given to virtually every applicant**. There was almost no income verification or money down, so almost anyone could get a mortgage. Home prices were also higher and growing rapidly, and rents were significantly lower in those days.
 
