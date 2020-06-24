@@ -34,3 +34,5 @@ Today **we’re seeing a lot of consistency in our market**, and buyer demand is
 With historically low interest rates favoring buyers and low supply benefiting sellers, **it’s currently an opportune time to enter the market**. We’ve been seeing more and more clients sell their current home and upsize to another bedroom or three-car garage by taking advantage of our market. If you’re sitting on a lot of equity, you may want to consider leveraging that by investing in a rental property. Our goal is to create opportunities for you and help you build wealth through real estate.
 
 If you have questions about your house or the market, or if we can help in any way, please give us a call or send an email. We would love to speak with you.
+
+&nbsp;
