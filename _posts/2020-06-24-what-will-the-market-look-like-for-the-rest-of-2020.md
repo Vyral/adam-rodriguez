@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here are our predictions for how our market will be for the rest of 2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/What+Will+the+Market+Look+Like+for+the+Rest+of+2020_.mp4
 pullquote: >-
   Comparing our current market to that of the housing crisis is like comparing
   apples to oranges.
