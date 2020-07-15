@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
 excerpt: Here are some ways you can save on your next mortgage or refinance.
 enclosure:
-pullquote: The ZERO PLUS program has been saving our friends and family thousands.
+pullquote: The ZeroPlus program has been saving our friends and family thousands.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -33,7 +33,7 @@ What's more, it could even result in a higher appraised value for your home, whi
 
 **In that case, you can still request an in-person appraisal, or simply deal with another lender**. You're not bound in any way. You can see now why this is such a risk-free and easy way to shave off a few hundred dollars of fees when refinancing your home or taking out a new mortgage.
 
-The second option is the ZERO PLUS program through Keller Mortgage. **When you refinance or take out a new loan with Keller Mortgage, there are no lender fees, no origination fees, PLUS they contribute $1,000 toward any third-party closing costs**. This program has been saving our friends, family, and customers thousands of dollars and is definitely worth looking into.
+The second option is the <u><a target="_blank" href="https://kellermortgage.com/zeroplus/">ZeroPlus program through Keller Mortgage</a></u>. **When you refinance or take out a new loan with Keller Mortgage, there are no lender fees, no origination fees, PLUS they contribute $1,000 toward any third-party closing costs**. This program has been saving our friends, family, and customers thousands of dollars and is definitely worth looking into.
 
 If you’re looking to get started, all you have to do is <u><a target="_blank" href="https://www.kw.com/download/KW2NZ6FJV">download our mobile app</a></u>, tap on the “More” tab at the bottom, and under “Tools” tap on Keller Mortgage. It’s that easy.
 
