@@ -17,7 +17,9 @@ youtube_code: DgqTcV0z-Zg
 
 {% include youtube.html %}
 
-Today we want to tell you about a few quick and easy ways to save hundreds or even thousands of dollars when you're refinancing or taking out a mortgage on a new home.
+<center><em>Here are some ways you can save on your next mortgage or refinance.</em></center>
+
+<br>Today we want to tell you about a few quick and easy ways to save hundreds or even thousands of dollars when you're refinancing or taking out a mortgage on a new home.
 
 **First is a little-known option called an appraisal waiver**. In a nutshell, when a lender decides to give you a loan, they want to have a good idea of what your property is worth. The typical way they do this is by sending out an expert to examine the property. This appraisal typically costs between $270 and $750. As you can probably guess, it's you, the borrower, who is on the hook for paying this fee.
 
