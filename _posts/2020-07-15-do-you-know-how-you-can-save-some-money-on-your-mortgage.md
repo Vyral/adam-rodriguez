@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are some ways you can save on your next mortgage or refinance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/Do+You+Know+How+You+Can+Save+Some+Money+on+Your+Mortgage_.mp4
 pullquote: The ZeroPlus program has been saving our friends and family thousands.
 enclosure_type: video/mp4
 enclosure_time:
