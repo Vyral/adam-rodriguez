@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: 'If you’ve inherited a property, these four steps will help you through it.'
+excerpt: 'If you’ve inherited a property, these four steps will help you deal with it.'
 enclosure:
 pullquote: >-
   We recommend treating the inherited property as you would a real estate
@@ -20,7 +20,7 @@ youtube_code: 5HoH3mNq74I
 
 {% include youtube.html %}
 
-<center><em>If you&rsquo;ve inherited a property, these four steps will help you through it.</em></center>
+<center><em>If you&rsquo;ve inherited a property, these four steps will help you deal with it.</em></center>
 
 <br>If you inherit a property, you may not know what to do with it. These are the first four steps to follow if you inherit real estate:
 
