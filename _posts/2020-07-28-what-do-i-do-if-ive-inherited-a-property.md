@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'If you’ve inherited a property, these four steps will help you deal with it.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/What+Do+I+Do+If+Ive+Inherited+a+Property_.mp4
 pullquote: >-
   We recommend treating the inherited property as you would a real estate
   purchase.
