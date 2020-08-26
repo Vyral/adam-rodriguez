@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/08-20-rodriquez-youtube.jpg
-youtube_code: J2bQEvFlsLk
+youtube_code: A3ZKYQPImKU
 ---
 
 {% include youtube.html %}
