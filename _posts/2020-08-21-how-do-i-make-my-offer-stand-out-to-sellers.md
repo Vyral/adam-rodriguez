@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are the three keys to standing out in a multiple-offer situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/How+Do+I+Make+My+Offer+Stand+Out+to+Sellers_.mp4
 pullquote: Never underestimate the power of a determined buyer and an experienced agent.
 enclosure_type: video/mp4
 enclosure_time:
