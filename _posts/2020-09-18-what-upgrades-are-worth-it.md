@@ -5,7 +5,7 @@ date: 2020-09-18 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: This is where I suggest you spend your money on home improvements
+excerpt: This is how I suggest you spend your money on home improvements
 enclosure:
 pullquote: It is always best to neutralize any bold or unique colors.
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: sJf40kgM5i0
 
 {% include youtube.html %}
 
-<center><em>This is where I suggest you spend your money on home improvements.</em></center>
+<center><em>This is how I suggest you spend your money on home improvements.</em></center>
 
 <br>One question we’ve been hearing a lot recently is, “What can I do to improve my home so I can get top dollar in the resale market?”
 
