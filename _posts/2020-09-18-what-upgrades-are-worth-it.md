@@ -5,7 +5,7 @@ date: 2020-09-18 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: This is how I suggest you spend your money on home improvements
+excerpt: This is how I suggest you spend your money on home improvements.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/What+Upgrades+Are+Worth+It_.mp4
 pullquote: It is always best to neutralize any bold or unique colors.
