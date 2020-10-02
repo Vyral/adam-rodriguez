@@ -27,6 +27,6 @@ This is a question Trey hears all the time and the right answer depends on your 
 
 **The target minimum for most loans is a 620 credit score**. You can get a conventional or FHA loan with this score, but you might need more of a down payment.
 
-If you don’t have a big down payment or any down payment, there are options for you. There are down-payment assistance programs as well as 0% financing programs available. **Just be ready to have a higher credit score if you’re going to go after one of those programs**. They typically require at least a 640 score.
+If you don’t have a big down payment or any down payment, there are options for you. There are down-payment assistance programs as well as 0% financing programs available. **Just be ready to have a higher credit score if you apply for one of those programs**. They typically require at least a 640 score.
 
 If you have any questions for Trey, give him a call at (407) 240-7063. If you have any other real estate-related questions for us, feel free to contact us via phone or email anytime. We look forward to hearing from you soon.
