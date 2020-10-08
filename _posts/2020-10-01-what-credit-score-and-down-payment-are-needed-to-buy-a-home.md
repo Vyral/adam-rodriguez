@@ -11,8 +11,8 @@ pullquote: There are down-payment assistance programs out there.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/10-01-rodriguez-youtube.jpg
-youtube_code: KieV2hPvFeo
+youtube_alternate_image: /uploads/10-01-rodriguez-youtube-1.jpg
+youtube_code: 5IRZSi2AVnM
 ---
 
 {% include youtube.html %}
