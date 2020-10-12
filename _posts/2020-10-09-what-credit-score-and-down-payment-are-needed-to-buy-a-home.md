@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Credit Score and Down Payment Are Needed to Buy a Home?
-date: 2020-10-01 00:00:00
+date: 2020-10-09 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
