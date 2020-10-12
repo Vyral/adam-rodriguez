@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here’s what to know about credit score and down payment requirements.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/What+Credit+Score+and+Down+Payment+Are+Needed+to+Buy+a+Home_.mp4
 pullquote: There are down-payment assistance programs out there.
 enclosure_type: video/mp4
 enclosure_time:
