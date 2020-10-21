@@ -39,9 +39,9 @@ These unique circumstances mean that most homeowners have equity in their homes 
 
 This rise in equity means that homeowners have options, even if they are struggling to make payments. In other words, **they can put their homes on the market and sell them, rather than lose them to foreclosure**.
 
-So what does this mean for you?
-
 {% include pullquote.html %}
+
+So what does this mean for you?
 
 Well, the current real estate market is severely short on its supply of homes.
 
