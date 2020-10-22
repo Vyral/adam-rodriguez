@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-20-rodriguez-youtube.jpg
-youtube_code: tvAbWuVSogo
+youtube_code: uIKZxS1NUvg
 ---
 
 {% include youtube.html %}
