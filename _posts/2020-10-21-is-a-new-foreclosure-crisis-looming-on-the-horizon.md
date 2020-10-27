@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here are my thoughts about a possible foreclosure crisis on the horizon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/Is+a+New+Foreclosure+Crisis+Looming+on+the+Horizon_.mp4
 pullquote: About 7% of all active mortgages are in forbearance.
 enclosure_type: video/mp4
 enclosure_time:
