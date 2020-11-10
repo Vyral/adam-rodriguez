@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Why are buyer consultations so important to first-time homebuyers?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/What+Are+the+Benefits+of+a+Buyer+Consultation.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
