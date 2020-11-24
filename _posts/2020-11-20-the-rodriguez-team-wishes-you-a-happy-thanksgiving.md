@@ -5,7 +5,8 @@ date: 2020-11-20 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s a quick message of thanks to you in the spirit of the season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/The+Rodriguez+Team+Wishes+You+a+Happy+Thanksgiving.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
