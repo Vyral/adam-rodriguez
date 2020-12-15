@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   There are three main reasons why filing for a homestead exemption is so
   important.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2020/Why+Are+Homestead+Exemptions+so+Important_.mp4
 pullquote: >-
   If you're a veteran, disabled veteran, or senior citizen, you get additional
   exemptions.
