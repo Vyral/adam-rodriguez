@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are Common Forms of Property Ownership?
+title: The Most Common Forms of Property Ownership
 date: 2021-01-15 00:00:00
 tags:
   - Real Estate
