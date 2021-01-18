@@ -6,9 +6,7 @@ tags:
   - Real Estate
 excerpt: Today we’re reviewing the most common forms of property ownership in our area.
 enclosure:
-pullquote: >-
-  Title can be held in two different ways: as “severalty,” or as “concurrent
-  estate.”
+pullquote: 'Title can be held in two different ways: ''severalty'' or ''concurrent estate.'''
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -26,7 +24,7 @@ Before we get into the answer, let’s start with a **quick reminder: Title equa
 
 The most common forms of ownership for an individual in Central Florida are “fee simple” and “leasehold” ownership. **Fee simple ownership is when an individual owns a piece of real estate outright**, meaning they own all the land, dwelling, and air rights to a property. Fee simple tenure is also considered indefinite, wherein the owner has the right to sell or dispose of the property as they please.
 
-**Leasehold ownership is basically where a parcel of land and the building on that land have different owners**. So, in essence, the owner of the land is leasing the rights of the property to the tenant. Leasehold ownership is also referred to as “tenancy for years” because it generally lasts for a specific period of time.
+**Leasehold ownership is basically where a parcel of land and the building on that land have different owners**. So, in essence, the owner of the land is leasing the rights of the property to the tenant. Leasehold ownership is also referred to as “tenancy for years” because it generally lasts for a specific period.
 
 {% include pullquote.html %}
 
