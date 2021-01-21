@@ -4,8 +4,10 @@ title: The Most Common Forms of Property Ownership
 date: 2021-01-15 00:00:00
 tags:
   - Real Estate
+  - Home Buyer Tips
 excerpt: Today we’re reviewing the most common forms of property ownership in our area.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/The+Most+Common+Forms+of+Property+Ownership.mp4
 pullquote: 'Title can be held in two different ways: ''severalty'' or ''concurrent estate.'''
 enclosure_type: video/mp4
 enclosure_time:
