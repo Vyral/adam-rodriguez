@@ -71,7 +71,7 @@ permalink: /guaranteed-offer/
                   </option>
               </select>
   						<button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onGuaranteedOfferSubmit' data-badge="bottomleft">Submit</button></fieldset>
-  					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Message from your Guaranteed Offer Landing Page" name="_subject" /> <input type="text" name="_gotcha" /></div>
+  					<div class="hidden"><input type="hidden" value="offer@rodriguezteamsells.com" name="_to" /> <input type="hidden" value="Message from your Guaranteed Offer Landing Page" name="_subject" /> <input type="text" name="_gotcha" /></div>
   				</form>
   </div>
 </div>
