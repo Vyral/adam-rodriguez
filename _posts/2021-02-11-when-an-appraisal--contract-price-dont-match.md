@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'As a seller, here’s what you can do if your home’s appraisal comes in low.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/When+an+Appraisal+%26+Contract+Price+Don%E2%80%99t+Match.mp4
 pullquote: >-
   Appraisers are super busy right now (along with everyone else), so there might
   be a typo somewhere in their report that threw everything off.
