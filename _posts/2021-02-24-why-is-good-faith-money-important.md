@@ -13,9 +13,8 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/02-23-rodriguez-youtube.jpg
-youtube_code: wbZlp8cG1qs
+youtube_code: jJbQ0KFbYlY
 ---
-
 {% include youtube.html %}
 
 <center><em>What is good faith money and why is it important? Find out here.</em></center>
