@@ -5,7 +5,7 @@ date: 2021-02-24 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: What is good faith money and why is it important? Find out here.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/Why+Is+Good+Faith+Money+Important_.mp4
 pullquote: >-
   The earnest money deposit shows good faith that the buyer is serious about
   purchasing the home.
@@ -17,7 +17,7 @@ youtube_code: jJbQ0KFbYlY
 ---
 {% include youtube.html %}
 
-<center><em>What is good faith money and why is it important? Find out here.</em></center>
+<center style="font-size: 18px;"><em>What is good faith money and why is it important? Find out here.</em></center>
 
 <br>What is good faith money?
 
