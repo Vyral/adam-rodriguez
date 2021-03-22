@@ -11,7 +11,7 @@ permalink: /guaranteed-offer/
 
 <div class="col-md-6">
 <center><iframe width="544" height="306" src="https://www.youtube.com/embed/RnTuZxuCoTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
+<br />
 <p>Would you like an offer on your home?</p>
 
 <p><strong>You can skip the headaches and hassles of selling traditionally.</strong></p>
