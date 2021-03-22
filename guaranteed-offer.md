@@ -10,7 +10,7 @@ permalink: /guaranteed-offer/
 <div class="whitespace"></div>
 
 <div class="col-md-6">
-<img src="/img/offer.jpg" class="post-image" style="margin-bottom: 20px;">
+<center><iframe width="544" height="306" src="https://www.youtube.com/embed/RnTuZxuCoTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>Would you like an offer on your home?</p>
 
