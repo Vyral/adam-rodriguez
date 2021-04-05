@@ -44,8 +44,8 @@ permalink: /guaranteed-offer/
 </div>
 
 <div class="col-md-6">
-  <h3 class="join-us">Request a Cash Offer on Your Home Today</h3>
-  <h5 class="join-us-subtitle">Enter your contact information</h5>
+  <h3 class="join-us center">Request a Cash Offer on Your Home Today</h3>
+  <h5 class="join-us-subtitle center">Enter your contact information</h5>
 
   <form method="post" class="home-value cta-forms" action="/thankyou" id="guaranteed-offer-form">
   					<fieldset>
@@ -68,6 +68,24 @@ permalink: /guaranteed-offer/
                   </option>
                   <option value="6 months+">
                       6 months+
+                  </option>
+              </select>
+              <label for="how">How did you hear about us?*</label>
+              <select name="how" required="">
+                  <option value="Social Media" selected="selected">
+                      Social Media
+                  </option>
+                  <option value="Email">
+                      Email
+                  </option>
+                  <option value="Letter Mail">
+                      Letter Mail
+                  </option>
+                  <option value="Word of Mouth">
+                      Word of Mouth
+                  </option>
+                  <option value="Other">
+                      Other
                   </option>
               </select>
   						<button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onGuaranteedOfferSubmit' data-badge="bottomleft">Submit</button></fieldset>
