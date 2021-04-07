@@ -5,7 +5,8 @@ date: 2021-04-05 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: New restrictions could make buying a second home much more costly.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/New+Restrictions+Mean+Increased+Mortgage+Costs+on+Second+Homes.mp4
 pullquote: >-
   These new rules may also encourage lenders to be even more selective when it
   comes to working with buyers.
