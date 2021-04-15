@@ -4,7 +4,7 @@ title: Guaranteed Offer
 permalink: /guaranteed-offer/
 ---
 <div class="recruiting-page">
-<h1 class="join-us">An Easier Way to Sell Your Area Home</h1>
+<h1 class="join-us">An Easier Way to Sell Your Central Florida Home</h1>
 <h5 class="join-us-subtitle">Get a guaranteed offer within as little as 7 days on your home</h5>
 
 <div class="whitespace"></div>
