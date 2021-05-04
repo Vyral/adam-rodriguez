@@ -44,15 +44,13 @@ client:
   phone2_type:
   email: adam@rodriguezteamsells.com
   url: 'http://rodriguezteamsells.com'
-
 forms:
   sitekey: 6LeSsiwaAAAAAABNbXwbHb8Qk7EjnALFkM2Yj5yr
-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://rodriguezteamsells.kw.com/your-home-s-value/'
+  first_CTA_URL: 'https://rodriguezteamsells.com/your-home-s-value/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://rodriguezteamsells.kw.com/search/#/-28479650'
+  second_CTA_URL: 'https://rodriguezteamsells.com/search/#/-28479650'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Central Florida Home Worth?
