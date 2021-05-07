@@ -5,7 +5,8 @@ date: 2021-05-03 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are five mistakes you must avoid as a first-time homebuyer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/Don%E2%80%99t+Make+These+Mistakes+as+a+Homebuyer.mp4
 pullquote: >-
   Make sure you hire a great agent who can walk you through the home-buying
   process, answer all your questions, and make the purchase a great experience.
