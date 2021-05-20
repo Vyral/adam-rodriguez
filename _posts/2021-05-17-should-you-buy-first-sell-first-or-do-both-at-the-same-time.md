@@ -10,8 +10,8 @@ pullquote: Buying and selling at the same time is certainly doable.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/05-14-rodriguez-youtube.jpg
-youtube_code: CXicAdpek7Q
+youtube_alternate_image: /uploads/05-14-rodriguez-youtube.png
+youtube_code: M_9asTWxwCk
 ---
 {% include youtube.html %}
 
