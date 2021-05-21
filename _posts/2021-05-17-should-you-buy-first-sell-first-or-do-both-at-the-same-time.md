@@ -4,8 +4,10 @@ title: 'Should You Buy First, Sell First, or Do Both at the Same Time?'
 date: 2021-05-17 00:00:00
 tags:
   - Home Seller Tips
+  - Home Buyer Tips
 excerpt: Here are your three options when you want to buy and sell a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/Should+You+Buy+First%2C+Sell+First%2C+or+Do+Both+at+the+Same+Time_.mp4
 pullquote: Buying and selling at the same time is certainly doable.
 enclosure_type: video/mp4
 enclosure_time:
