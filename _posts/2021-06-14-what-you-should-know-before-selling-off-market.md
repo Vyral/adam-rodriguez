@@ -5,7 +5,8 @@ date: 2021-06-14 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s what you should know before selling your home off-market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/What+You+Should+Know+Before+Selling+Off-Market.mp4
 pullquote: >-
   You could be leaving thousands of dollars on the table by not testing the free
   market.
