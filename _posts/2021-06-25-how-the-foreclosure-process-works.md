@@ -19,7 +19,7 @@ youtube_code: ukY73CoVBS8
 
 {% include excerpt.html %}
 
-Today I want to talk about the foreclosure process. What it is, how long it takes, and important things to know. First of all, **every foreclosure timeline can be different**. Today’s information is meant to be general and will be a good, average timeline here in Florida when it comes to foreclosure.
+Today I want to talk about the foreclosure process: what it is, how long it takes, and important things to know. First of all, **every foreclosure timeline can be different**. Today’s information is meant to be general and will be a good, average timeline here in Florida when it comes to foreclosure.
 
 The first thing that happens is that you’ll get behind on your mortgage payments. People ask all the time, “If I get a month behind on my house payment, are they going to foreclose?” The answer to that question is generally no, but of course, there are exceptions.
 
