@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m sharing a quick walk-through of the typical foreclosure process in
   Florida.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/How+the+Foreclosure+Process+Works.mp4
 pullquote: You have 20 days to respond after receiving your letter of foreclosure.
 enclosure_type: video/mp4
 enclosure_time:
