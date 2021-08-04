@@ -5,7 +5,8 @@ date: 2021-07-29 00:00:00
 tags:
   - Home Seller Tips
 excerpt: We’re so excited to be offering this great program from KW.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/The+Benefits+of+Keller+Williams%E2%80%99+%E2%80%9CReady+to+Sell%E2%80%9D+Program.mp4
 pullquote: We manage the entire construction process with our own contractors.
 enclosure_type: video/mp4
 enclosure_time:
