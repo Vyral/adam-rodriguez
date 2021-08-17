@@ -85,6 +85,11 @@
 	  document.getElementById("guaranteed-offer-form").submit();
 	}
 
+	function onReadyToSellSubmit(token) {
+	document.getElementById("ready-to-sell-form").submit();
+}
+
+
 	</script>
 
 
@@ -122,7 +127,7 @@
 
 <p>This way you can make smart real estate decisions and get the best deal when you buy, sell, remodel, or refinance your home.</p>
 
-<p><ul>
+<p><ul class="indent">
 <li>My topics include:</li>
 <li>Local home price market updates</li>
 <li>Home selling tips</li>
@@ -275,6 +280,24 @@ function topFunction() {
 <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="/js/media-player.js"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2445839205496037');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2445839205496037&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
   </body>
 </html>

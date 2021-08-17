@@ -21,7 +21,7 @@ permalink: /sign-up/
 
 <p>This way you can make smart real estate decisions and get the best deal when you buy, sell, remodel, or refinance your home.</p>
 
-<p><ul>
+<p><ul class="indent">
 <li>My topics include:</li>
 <li>Local home price market updates</li>
 <li>Home selling tips</li>

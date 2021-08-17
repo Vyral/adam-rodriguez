@@ -11,6 +11,10 @@ show_custom_links: true
 custom_links:
   - title: Guaranteed Offer
     url: /guaranteed-offer/
+  - title: Ready to Sell?
+    url: /ready-to-sell/
+  - title: Free Newsletter
+    url: /subscribe/
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
