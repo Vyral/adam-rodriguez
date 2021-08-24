@@ -34,6 +34,6 @@ Can you buy a house while you already own one? The quick answer is yes. However,
 
 **4\. Use a conventional loan.** This is the most straightforward method of buying a second property. If you’re buying a secondary or vacation home, you’ll need about 10% to 20% down; if you’re buying an investment property, you’ll need 15% to 20%. Banks will expect you to have assets in reserve to cover expenses. If you’re a W-2 employee, they’ll likely want to see two months of expenses in reserves. If you’re an independent contractor or self-employed, they’ll probably want to see at least six months of assets in reserves.
 
-Before you get started on any of this, make sure to contact your accountant or financial planner to see which option works best for you. If you already own a home, you can buy another house to move into, a second house or vacation home, or an investment property. You just have to go about it the right way.
+Before you get started on any of this, make sure to contact your accountant or financial planner to see which option works best for you. If you already own a home, you can buy another house to move into, a vacation home, or an investment property. You just have to go about it the right way.
 
 If you have any questions or need real estate help, give us a call or send an email. We would love to help you.
