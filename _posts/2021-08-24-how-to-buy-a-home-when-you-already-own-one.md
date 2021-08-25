@@ -5,7 +5,7 @@ date: 2021-08-24 11:30:00
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: Here are four ways to buy another house when you already own one.
+excerpt: We’re sharing four ways to buy a second home when you already own one.
 enclosure: >-
   s3://vyralmarketing/Adam Rodriguez/Videos/2021/4 Ways to Buy a Home While You
   Already Own One.mp4
