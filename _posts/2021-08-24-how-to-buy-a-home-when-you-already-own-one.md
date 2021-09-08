@@ -4,7 +4,7 @@ title: How to Buy a Home When You Already Own One
 date: 2021-08-24 11:30:00
 tags:
   - Home Buyer Tips
-  - Real Estate
+  - Investing in Real Estate
 excerpt: We’re sharing four ways to buy a second home when you already own one.
 enclosure: >-
   s3://vyralmarketing/Adam Rodriguez/Videos/2021/4 Ways to Buy a Home While You
