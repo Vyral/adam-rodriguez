@@ -19,7 +19,7 @@ youtube_code: kCwglmvlNE0
 
 Today we’re talking about homeowners insurance. Even though I’m not an insurance agent, this question seems to come up a lot: “What do I need to know about homeowners insurance?”
 
-The standard homeowners policy is divided into 2 sections: property coverages and liability coverages. Let’s start by taking a closer look at the types of property coverage.
+The standard homeowners policy is divided into two sections: property coverages and liability coverages. Let’s start by taking a closer look at the types of property coverage.
 
 **Coverage A - Dwelling:** provides protection for your home and the structures attached to your home.
 
