@@ -21,12 +21,12 @@ Today we’re talking about homeowners insurance. Even though I’m not an insur
 
 The standard homeowners policy is divided into 2 sections: property coverages and liability coverages. Let’s start by taking a closer look at the types of property coverage.
 
-<blockquote><b>Coverage A - Dwelling:</b> provides protection for your home and the structures attached to your home.<br>
-
-<b>Coverage B - Other structures:</b> covers the structures other than your home located on your property such as a detached garage or shed.<br>
-
-<b>Coverage C - personal property:</b> covers the contents of your home such as furniture, appliances, clothing, and toys.<br>
-
+<blockquote><b>Coverage A - Dwelling:</b> provides protection for your home and the structures attached to your home.
+&nbsp;
+<b>Coverage B - Other structures:</b> covers the structures other than your home located on your property such as a detached garage or shed.
+&nbsp;
+<b>Coverage C - personal property:</b> covers the contents of your home such as furniture, appliances, clothing, and toys.
+&nbsp;
 <b>Coverage D - Loss of use:</b> provides coverage for your additional living expenses when you have lost use of your home. For example, if you have to vacate your home due to damage from a covered loss such as fire or tornado, this coverage will pay for the additional cost of a hotel or other temporary living expenses you would not normally have until the damage to your home can be repaired.</blockquote>
 
 One important note about homeowners insurance is that not all causes of loss are covered. Since not everyone's home is within a flood zone, you might be able to purchase a separate policy to provide coverage. Your insurance agent can help with that.
