@@ -5,7 +5,8 @@ date: 2021-09-21 00:00:00
 tags:
   - Homeownership
 excerpt: A detailed look at the different types of homeowners insurance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Adam+Rodriguez/Videos/2021/What+Types+of+Homeowners+Insurance+Coverage+Are+There_.mp4
 pullquote: The most important thing to remember is your policy should protect YOUR needs.
 enclosure_type: video/mp4
 enclosure_time:
